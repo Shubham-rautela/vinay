@@ -1,0 +1,6 @@
+*.log
+*.tmp
+*.swp
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup-db/
